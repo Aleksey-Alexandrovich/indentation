@@ -1,0 +1,32 @@
+
+.navigation{
+	padding: 25px 0;
+	
+}
+.navigation__item:not(:last-child){
+	margin-bottom: 10px;
+}
+.navigation__link{	
+	text-decoration-line: underline;
+}
+
+
+
+.navigation__list{
+	list-style-type: style;
+	line-height: 120%;
+	color: #02535F;
+	padding-left: 24px;
+	
+}
+
+
+
+.navigation__title {
+	font-weight: 700;
+	font-size: 44px;
+	line-height: 120%;
+	color: #000000;
+	margin-bottom: 20px;
+}
+
