@@ -30,3 +30,10 @@
 	margin-bottom: 20px;
 }
 
+.article__footertitle {
+	font-weight: 700;
+	font-size: 44px;
+	line-height: 120%;
+	color: #000000;
+	margin-bottom: 20px;
+}
